@@ -8,7 +8,7 @@
 
 import Foundation
 
-func read_execute_loop(){
+func readExecuteLoop(){
     
     while(true){
         print("sdb>", terminator:"")
